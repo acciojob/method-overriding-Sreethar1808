@@ -17,8 +17,8 @@ public class Main {
         String str = b1.meth();
         System.out.println(str);
 
-        B b2 = new B();
-        String str2 = b2.meth();
-        System.out.println(str2);
+//        B b2 = new B();
+//        String str2 = b2.meth();
+//        System.out.println(str2);
     }
 }
