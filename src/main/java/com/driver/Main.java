@@ -12,7 +12,7 @@ public class Main {
     public static class B extends A{
         @Override
         public String meth() {
-            return super.meth()+" "+"Method is overridden in Extended class B";
+            return super.meth()+"Method is overridden in Extended class B";
         }
     }
 
