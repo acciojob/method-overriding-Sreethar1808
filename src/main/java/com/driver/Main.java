@@ -12,14 +12,14 @@ public class Main {
         }
     }
 
-    public void main(String[] args) {
+    public static void main(String[] args) {
         B b1 = new B();
-        String str = b1.meth();
-        System.out.println(str);
+        b1.meth();
+
 
         B b2 = new B();
 
-        System.out.println(b2.meth());
+        b2.meth();
 
 //        B b2 = new B();
 //        String str2 = b2.meth();
