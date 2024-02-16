@@ -19,8 +19,5 @@ public class Main {
         B b2 = new B();
         b2.meth();
 
-//        B b2 = new B();
-//        String str2 = b2.meth();
-//        System.out.println(str2);
     }
 }
